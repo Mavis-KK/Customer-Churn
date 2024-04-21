@@ -29,22 +29,29 @@
 
 # Customer Churn Prediction <a name="about-project"></a>
 
-**Customer Churn Prediction** this is a data application that allows users to interact with a machine learning model, view data visualizations on the data and see the values of their input saved for future use. It predicts the likelihood of an employee leaving the company based on various demographic and job-related factors.
+**Customer Churn Prediction** In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
 
 Features
-1. **Age**: Age of employee
-2. **Attrition**: Employee attrition status
-3. **Department**: Department of work
-4. **DistanceFromHome**: what is their distance from hime
-5. **Education**: 1-Below College; 2- College; 3-Bachelor; 4-Master; 5-Doctor;
-6. **EducationField**: The field they studies in in the University
-7. **EnvironmentSatisfaction**: 1-Low; 2-Medium; 3-High; 4-Very High;
-8. **JobSatisfaction**: 1-Low; 2-Medium; 3-High; 4-Very High;
-9. **MaritalStatus**: Whether they are married, single or divorced
-10. **MonthlyIncome**: How much an employee makes a month
-11. **NumCompaniesWorked**: Number of companies worked prior to IBM
-12. **WorkLifeBalance**: 1-Bad; 2-Good; 3-Better; 4-Best;
-13. **YearsAtCompany**: Current years of service in IBM
+1. **Gender** -- Whether the customer is a male or a female
+2. **Senior Citizen** -- Whether a customer is a senior citizen or not
+3. **Partner** -- Whether the customer has a partner or not (Yes, No)
+4. **Dependents** -- Whether the customer has dependents or not (Yes, No)
+5. **Tenure** -- Number of months the customer has stayed with the company
+6. **Phone Service**  -- Whether the customer has a phone service or not (Yes, No)
+7. **Multiple Lines** -- Whether the customer has multiple lines or not
+8. **Internet Service** -- Customer's internet service provider (DSL, Fiber Optic, No)
+9. **Online Security** -- Whether the customer has online security or not (Yes, No, No Internet)
+10. **Online Backup** -- Whether the customer has online backup or not (Yes, No, No Internet)
+11. **Device Protection** -- Whether the customer has device protection or not (Yes, No, No internet service)
+12. **Tech Support** -- Whether the customer has tech support or not (Yes, No, No internet)
+13. **Streaming TV** -- Whether the customer has streaming TV or not (Yes, No, No internet service)
+14. **Streaming Movies** -- Whether the customer has streaming movies or not (Yes, No, No Internet service)
+15. **Contract** -- The contract term of the customer (Month-to-Month, One year, Two year)
+16. **Paperless Billing** -- Whether the customer has paperless billing or not (Yes, No)
+17. **Payment Method** -- The customer's payment method (Electronic check, mailed check, Bank transfer(automatic), Credit card(automatic))
+18. **Monthly Charges** -- The amount charged to the customer monthly
+19. **Total Charges** -- The total amount charged to the customer
+20. **Churn** -- Whether the customer churned or not (Yes or No)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -90,12 +97,6 @@ Features
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-![image](https://github.com/coderacheal/Attrition-Meter/assets/97846040/eb717bf3-d42b-4005-8080-276b69f08167)
-
-![image](https://github.com/coderacheal/Attrition-Insight/assets/97846040/a0f9bf95-b847-4a9b-963b-8d875a0b0fc1)
-
-
 
 
 <!-- GETTING STARTED -->

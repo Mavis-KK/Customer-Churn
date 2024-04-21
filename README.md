@@ -29,7 +29,7 @@
 
 # Customer Churn Prediction <a name="about-project"></a>
 
-**Customer Churn Prediction** is a data application that allows users to interact with a machine learning model, view data visualizations on the data and see the values of their input saved for future use. It predicts the likelihood of an employee leaving the company based on various demographic and job-related factors.
+**Customer Churn Prediction** this is a data application that allows users to interact with a machine learning model, view data visualizations on the data and see the values of their input saved for future use. It predicts the likelihood of an employee leaving the company based on various demographic and job-related factors.
 
 Features
 1. **Age**: Age of employee
